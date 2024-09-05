@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+html,
+body {
+	height: 100%;
+}
+
+.form-conteiner {
+	max-width: 360px;
+	padding: 1rem;
+}
